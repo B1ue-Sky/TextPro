@@ -1,0 +1,41 @@
+DynamicHysteresisResult
+Generic information
+BALABALA
+
+Table 1
+Table No [#]	Vc+ [V]	Vc- [V]	Pr+ [uC/cm2]	Pr- [uC/cm2]	Prrel [uC/cm2]	Pmax [uC/cm2]	Pmax- [uC/cm2]	Psw [uC/cm2]	Pnsw [uC/cm2]	dPsw [uC/cm2]	Wloss [uJ/cm2]	Rav [Ohm]	Cls [F]	Epsls [1]	Measurement Status []	Hysteresis Frequency [Hz]	Hysteresis Amplitude [V]	Current Range []	Averages []	
+1.000000e+000
+2.000000e+000
+3.000000e+000
+more table index
+BALABALA
+
+DynamicHysteresis
+Software information
+BALABALA
+
+Table 1
+Timestamp: 01/01/2001 17:45:05
+Test information
+BALABALA
+Time [s]	V+ [V]	V- [V]	I1 [A]	P1 [uC/cm2]	I2 [A]	P2 [uC/cm2]	I3 [A]	P3 [uC/cm2]	
+0.000000e+000
+1.000000e+000
+more data
+BALABALA
+
+Table 2
+Timestamp: 01/01/2001 17:45:06
+Time [s]	V+ [V]	V- [V]	I1 [A]	P1 [uC/cm2]	I2 [A]	P2 [uC/cm2]	I3 [A]	P3 [uC/cm2]	
+0.000000e+000
+1.000000e+000
+more data
+BALABALA
+
+Table 3
+Timestamp: 01/01/2001 17:45:07
+Time [s]	V+ [V]	V- [V]	I1 [A]	P1 [uC/cm2]	I2 [A]	P2 [uC/cm2]	I3 [A]	P3 [uC/cm2]	
+0.000000e+000
+1.000000e+000
+more data
+BALABALA
